@@ -9,8 +9,8 @@ services:
       POSTGRES_PASSWORD: test
       POSTGRES_USER: test
       POSTGRES_DB: testdb
-#  sentence-generator:
-#    image: sentence-generator:latest
+#  scrabble:
+#    image: scrabble:latest
 #    ports:
 #      - "7070:7070"
 #    restart: on-failure
