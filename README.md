@@ -25,5 +25,6 @@ Steps to run the application:
     * for listing members with the top 10 average scores
 * optimize db queries, mainly for missing endpoints
 * add more test data
+* add the pagination to REST requests in order to decrease length of time to fetch the data.
 * dockerize app (at the moment only db is running in the docker)
 * add Unit tests
