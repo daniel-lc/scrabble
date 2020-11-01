@@ -1,0 +1,26 @@
+### GET Membes
+
+GET localhost:7070/api/members
+Content-Type: application/json
+
+{}
+
+### GET Member Detail
+
+GET localhost:7070/api/members/1
+Content-Type: application/json
+
+{}
+
+### Update Member Detail
+
+PUT localhost:7070/api/members/1
+Content-Type: application/json
+
+{
+  "memberId": "1",
+  "name": "Waseem Barnes"
+}
+
+###
+

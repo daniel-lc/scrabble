@@ -1,0 +1,10 @@
+### GET Worst and Best members
+
+GET localhost:7070/api/board/worstBest
+Content-Type: application/json
+
+{}
+
+
+###
+
